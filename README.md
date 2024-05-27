@@ -1,5 +1,8 @@
 # Running the app on docker
+
+```
 docker build -f Dockerfile -t movie_app:<tag> .
+```
 
 # Getting Started with Create React App
 
